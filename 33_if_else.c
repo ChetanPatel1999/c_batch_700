@@ -2,7 +2,7 @@
 void main()
 {
     printf("this is stmnt1\n");
-    if (12 > 77)
+    if (12 > 77) // if(1)  // if(0)
     {
         printf("this is stmnt2\n");
         printf("this is stmnt3\n");
