@@ -8,6 +8,7 @@
 void main()
 {
     int num, a, b, c;
+
     printf("<==== welcome to my calculator ====>\n");
     printf("   press 1 for addition \n");
     printf("   press 2 for subtraction \n");
