@@ -2,8 +2,8 @@
 void main()
 {
     int i;
-    for (i = 1; i <= 5; i++) 
+    for (i = 1; i <= 10; i++)
     {
-        printf("hello world institute\n"); 
+        printf("%d\n", i);
     }
 }
