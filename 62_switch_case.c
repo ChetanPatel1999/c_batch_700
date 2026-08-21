@@ -15,7 +15,7 @@ void main()
     printf("   press 3 for multiplication \n");
     printf("   press 4 for division \n");
     printf("   press any number : ");
-    scanf("%d", &num); // 1
+    scanf("%d", &num); // 2
     switch (num)
     {
     case 1:
