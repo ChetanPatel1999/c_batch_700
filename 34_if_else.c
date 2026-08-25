@@ -8,7 +8,7 @@ void main()
     if (age >= 18)
     {
         printf("you are eligible for voting");
-    }41
+    }
     else
     {
         printf("you are not eligible for voting");
