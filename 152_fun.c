@@ -1,13 +1,16 @@
 #include <stdio.h>
-void sqaure()
+void square(); // function declaration
+void main()
+{
+    square(); // function calling
+    
+    square();
+}
+void square() // function defination
 {
     int num, s;
     printf("enter a num : ");
-    scanf("%d", &num); //6
+    scanf("%d", &num); // 6
     s = num * num;
     printf("sqaure = %d\n", s);
-}
-void main()
-{
-     sqaure();
 }
